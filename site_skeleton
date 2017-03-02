@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>Data Visualization Project 1</title>
+    <link rel="stylesheet" type="text/css" href="https://github.com/astryker18/data-viz-1/blob/master/CSS"/>
   </head>
   <body>
     <h1>Data Visualization: A Log of My Daily Activities</h1>
